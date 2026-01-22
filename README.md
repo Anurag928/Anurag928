@@ -1,7 +1,6 @@
 <!-- Top Full-width Header Capsule -->
 <div>
  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Guda%20Anurag%20Prateek&fontSize=60&fontColor=FFFFFF&color=gradient" />
-
 </div>
 
 <!-- Top border below header -->
@@ -91,7 +90,7 @@ Aspiring Data Scientist | ML Enthusiast | DSA Learner
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anurag928&theme=dracula&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anurag928&theme=dracula&no-frame=true&row=1&column=5"/>
 </div>
 
 ---
@@ -102,7 +101,7 @@ Aspiring Data Scientist | ML Enthusiast | DSA Learner
 ## 📅 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anurag928&theme=react-dark&area=true&hide_border=false&custom_title=Guda%20Anurag%20Prateek's%20Contributions" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anurag928&theme=react-dark&area=true&hide_border=false&custom_title=Guda%20Anurag%20Prateek%20Contributions" />
 </div>
 
 ---
