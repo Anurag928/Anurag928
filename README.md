@@ -1,4 +1,9 @@
-<!-- Top border -->
+<!-- Top Capsule Render -->
+<div>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+<!-- Top border covering header -->
 <div style="border-top: 4px solid #4B0082; margin-bottom: 20px;"></div>
 
 <h1 align="center">
@@ -22,7 +27,7 @@ B.Tech CSD Student | Aspiring Data Scientist | ML Enthusiast
 - 🔍 Passionate about **Data Analytics, Machine Learning & AI**
 - 🧠 Currently learning **Java, Python, DSA & ML**
 - 🚀 Love building **real-world, data-driven projects**
-- ☕ Fun fact: *I turn coffee ☕ into code and data into decisions*
+- 🔢 Fun fact: *I turn raw data into meaningful insights and actionable decisions*
 
 ---
 
@@ -94,6 +99,9 @@ B.Tech CSD Student | Aspiring Data Scientist | ML Enthusiast
 
 ---
 
+<!-- Top border for Activities -->
+<div style="border-top: 4px solid #4B0082; margin: 20px 0;"></div>
+
 ## 📅 GitHub Activity
 
 <div align="center">
@@ -118,10 +126,13 @@ B.Tech CSD Student | Aspiring Data Scientist | ML Enthusiast
 
 ---
 
-<br>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anurag928/Anurag928/output/snake.svg" alt="Snake animation" />
+</div>
+
+<!-- Bottom Capsule Render -->
+<div>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
