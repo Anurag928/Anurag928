@@ -105,7 +105,8 @@ B.Tech CSD Student | Aspiring Data Scientist | ML Enthusiast
 ## 📅 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anurag928&theme=react-dark&hide_border=true" />
+  <img src="https://ghchart.rshah.org/Anurag928" alt="GitHub Contributions Chart" />
+
 </div>
 
 ---
