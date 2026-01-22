@@ -1,6 +1,7 @@
 <!-- Top Full-width Header Capsule -->
 <div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Guda%20Anurag%20Prateek&desc=B.Tech%20CSD%20Student%20|%20Aspiring%20Data%20Scientist&fontSize=60&fontColor=FFFFFF&descSize=25&color=gradient" />
+ <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Guda%20Anurag%20Prateek&fontSize=60&fontColor=FFFFFF&color=gradient" />
+
 </div>
 
 <!-- Top border below header -->
