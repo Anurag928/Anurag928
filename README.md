@@ -1,3 +1,6 @@
+<!-- Top border -->
+<div style="border-top: 4px solid #4B0082; margin-bottom: 20px;"></div>
+
 <h1 align="center">
 Hi 👋, I'm Guda Anurag Prateek
 </h1>
@@ -23,7 +26,7 @@ B.Tech CSD Student | Aspiring Data Scientist | ML Enthusiast
 
 ---
 
-## 📊 GitHub Stats (Live)
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anurag928&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="160"/>
@@ -43,14 +46,14 @@ B.Tech CSD Student | Aspiring Data Scientist | ML Enthusiast
 ## 🛠 Tech Stack
 
 ### 🔹 Languages
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="35"/>
 </div>
 
 ### 🔹 Data Science & Analytics
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="35"/>
@@ -61,7 +64,7 @@ B.Tech CSD Student | Aspiring Data Scientist | ML Enthusiast
 </div>
 
 ### 🔹 Tools & Others
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35"/>
@@ -91,6 +94,14 @@ B.Tech CSD Student | Aspiring Data Scientist | ML Enthusiast
 
 ---
 
+## 📅 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anurag928&theme=react-dark&hide_border=true" />
+</div>
+
+---
+
 ## 🔗 Connect With Me
 
 <div align="center">
@@ -111,4 +122,6 @@ B.Tech CSD Student | Aspiring Data Scientist | ML Enthusiast
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Anurag928/Anurag928/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anurag928/Anurag928/output/snake.svg" alt="Snake animation" />
+</div>
