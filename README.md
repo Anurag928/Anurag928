@@ -1,17 +1,13 @@
-<!-- Top Capsule Render -->
+<!-- Top Full-width Header Capsule -->
 <div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Guda%20Anurag%20Prateek&desc=B.Tech%20CSD%20Student%20|%20Aspiring%20Data%20Scientist&fontSize=60&fontColor=FFFFFF&descSize=25&color=gradient" />
 </div>
 
-<!-- Top border covering header -->
+<!-- Top border below header -->
 <div style="border-top: 4px solid #4B0082; margin-bottom: 20px;"></div>
 
-<h1 align="center">
-Hi 👋, I'm Guda Anurag Prateek
-</h1>
-
 <h3 align="center">
-B.Tech CSD Student | Aspiring Data Scientist | ML Enthusiast
+Aspiring Data Scientist | ML Enthusiast | DSA Learner
 </h3>
 
 <p align="center">
@@ -102,11 +98,10 @@ B.Tech CSD Student | Aspiring Data Scientist | ML Enthusiast
 <!-- Top border for Activities -->
 <div style="border-top: 4px solid #4B0082; margin: 20px 0;"></div>
 
-## 📅 GitHub Activity
+## 📅 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/Anurag928" alt="GitHub Contributions Chart" />
-
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anurag928&theme=react-dark&area=true&hide_border=false&custom_title=Guda%20Anurag%20Prateek's%20Contributions" />
 </div>
 
 ---
