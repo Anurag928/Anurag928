@@ -11,18 +11,24 @@ permissions:
 jobs:
   snake:
     runs-on: ubuntu-latest
+
     steps:
+      # ✅ THIS IS THE FIX (checkout repo)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: Anurag928
           outputs: |
-            output/snake.svg
+            dist/snake.svg
 
       - name: Commit and push snake
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add output/snake.svg
+          git checkout -B output
+          git add dist/snake.svg
           git commit -m "Update snake animation" || echo "No changes"
-          git push
+          git push origin output
