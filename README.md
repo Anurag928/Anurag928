@@ -89,9 +89,10 @@ Aspiring Data Scientist | ML Enthusiast | DSA Learner
 
 ## 🏆 GitHub Trophies
 
-[<img src="https://github-readme-stats.vercel.app/api?username=Anurag928&show_icons=true&theme=dracula" />
-](https://github-profile-trophy.vercel.app/?username=Anurag928&theme=dracula&no-frame=true&row=1&column=5
-)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anurag928&theme=dracula&no-frame=true&row=1&column=5"/>
+</div>
 
 ---
 
