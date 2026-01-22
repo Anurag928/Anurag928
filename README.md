@@ -100,8 +100,9 @@ Aspiring Data Scientist | ML Enthusiast | DSA Learner
 
 ## 📅 GitHub Activity Graph
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Anurag928&theme=react-dark&area=true"/>
-
+[<img src="https://activity-graph.herokuapp.com/graph?username=Anurag928&theme=react-dark&area=true"/>
+](https://github-readme-activity-graph.cyclic.app/graph?username=Anurag928&theme=react-dark&area=true&hide_border=false&custom_title=Guda%20Anurag%20Prateek%20Contributions
+)
 
 ---
 
