@@ -17,8 +17,6 @@ Aspiring Data Scientist | ML Enthusiast | DSA Learner
 
 ---
 
-![Anurag928's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anurag928&theme=react-dark&hide_border=true)
-
 ## 👨‍💻 About Me
 
 - 🎓 **B.Tech – Computer Science & Data Science**
